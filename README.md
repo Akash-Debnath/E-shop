@@ -1,10 +1,10 @@
-# E-shop1
-E-shop system solved all the problems of manual shopping system. These are :-
-No transportation burden (Home delivery module).
-The convenience of shopping at home.
-Saves time and efforts.
-Wide variety of products are available.
-Good discounts/lower prices.
-Get detailed information about the product.
-No need extra agent.
+## E-shop1
+
+```
+Basically its a ecommerce platform web application. There've two panel - admin and user. User can search product as name or category, add to cart, then 
+proceed for payment. Admin can add, edit, accept user order, place products, answer if user have any query and so on.
+```
+```
+Language - PHP, HTML, CSS, Botstrap, Vanilla Javascript, Ajax.
+```
 
