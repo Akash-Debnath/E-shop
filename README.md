@@ -6,6 +6,15 @@ category, add to cart, then proceed for payment. Admin can add, edit, accept use
 any query and so on.
 ```
 ```
-Language - PHP, HTML, CSS, Botstrap, Vanilla Javascript, Ajax.
+Language - PHP, HTML5, CSS3, Botstrap 4, Vanilla Javascript, Ajax, MySQL.
+```
+
+
+```
+git clone
+```
+
+```Browse in any browser
+https://localhost/eshop/
 ```
 
